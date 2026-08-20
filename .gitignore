@@ -1,0 +1,8 @@
+.DS_Store
+*.wav
+*.mp4
+*.mov
+*.srt
+*.vtt
+*.tsv
+transcript/
